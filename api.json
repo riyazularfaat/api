@@ -1,5 +1,25 @@
 [
   {
+    "id": 1,
+    "title": "Kids Wear",
+    "slug": "kids-wear",
+    "price": 100,
+    "description": "Elevate your casual wardrobe with our Classic Red Pullover Hoodie. Crafted with a soft cotton blend for ultimate comfort, this vibrant red hoodie features a kangaroo pocket, adjustable drawstring hood, and ribbed cuffs for a snug fit. The timeless design ensures easy pairing with jeans or joggers for a relaxed yet stylish look, making it a versatile addition to your everyday attire.",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "slug": "clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2025-05-08T10:56:21.000Z",
+      "updatedAt": "2025-05-08T10:56:21.000Z"
+    },
+    "images": [
+      "https://t4.ftcdn.net/jpg/00/97/81/69/360_F_97816948_KnKa0XqSjvm36lIQqYSiiTih2oVoi2At.jpg"
+    ],
+    "creationAt": "2025-05-08T10:56:21.000Z",
+    "updatedAt": "2025-05-08T16:10:12.000Z"
+  },
+  {
     "id": 2,
     "title": "Kids Wear",
     "slug": "kids-wear",
