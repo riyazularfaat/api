@@ -1,904 +1,902 @@
 [
   {
-    id: 1,
-    title: "Classic White T-Shirt",
-    description: "Essential cotton t-shirt with a comfortable fit and timeless design.",
-    image: "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 24.99,
-    rating: 4.8,
-    category: "tops"
-  },
-  {
-    id: 2,
-    title: "Black Graphic Tee",
-    description: "Soft cotton t-shirt featuring a unique graphic print on the front.",
-    image: "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 29.99,
-    rating: 4.6,
-    category: "tops"
-  },
-  {
-    id: 3,
-    title: "Striped Pocket Tee",
-    description: "Casual striped t-shirt with a convenient chest pocket.",
-    image: "https://images.unsplash.com/photo-1523381294911-8d3cead13475?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 22.99,
-    rating: 4.5,
-    category: "tops"
-  },
-  {
-    id: 4,
-    title: "V-Neck Basic Tee",
-    description: "Lightweight v-neck t-shirt perfect for layering or wearing alone.",
-    image: "https://images.jackjones.com/12059219/1327391/001/jackjones-jjebasicv-necktees-snoos-black.png?v=61d914b6c1793535ad8fd1fba0dcaf6c://images.unsplash.com/photo-1622445275576-721325763eda?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 19.99,
-    rating: 4.3,
-    category: "tops"
-  },
-  {
-    id: 5,
-    title: "Long Sleeve Henley",
-    description: "Comfortable long sleeve henley shirt with button detail.",
-    image: "https://images.unsplash.com/photo-1617113930975-f9c7243ae527?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 34.99,
-    rating: 4.7,
-    category: "tops"
-  },
-  {
-    id: 6,
-    title: "Oxford Button-Down Shirt",
-    description: "Classic oxford cloth button-down shirt for a polished casual look.",
-    image: "https://images.unsplash.com/photo-1598961942613-ba897716405b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 49.99,
-    rating: 4.8,
-    category: "tops"
-  },
-  {
-    id: 7,
-    title: "Silk Blouse",
-    description: "Elegant silk blouse with a flowing silhouette for a sophisticated look.",
-    image: "https://images.unsplash.com/photo-1564257631407-4deb1f99d992?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 79.99,
-    rating: 4.5,
-    category: "tops"
-  },
-  {
-    id: 8,
-    title: "Linen Button-Up Shirt",
-    description: "Breathable linen shirt that keeps you cool during warm weather.",
-    image: "https://images.unsplash.com/photo-1604695573706-53170668f6a6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 59.99,
-    rating: 4.6,
-    category: "tops"
-  },
-  {
-    id: 9,
-    title: "Floral Print Blouse",
-    description: "Vibrant floral print blouse perfect for spring and summer outfits.",
-    image: "https://images.unsplash.com/photo-1485462537746-965f33f7f6a7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 44.99,
-    rating: 4.4,
-    category: "tops"
-  },
-  {
-    id: 10,
-    title: "Chambray Work Shirt",
-    description: "Durable chambray work shirt with practical pockets and classic styling.",
-    image: "https://images.unsplash.com/photo-1589310243389-96a5483213a8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 54.99,
-    rating: 4.7,
-    category: "tops"
-  },
-  {
-    id: 11,
-    title: "Casual Hoodie",
-    description: "Soft and warm hoodie perfect for everyday wear.",
-    image: "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 49.99,
-    rating: 4.7,
-    category: "tops"
-  },
-  {
-    id: 12,
-    title: "Knit Sweater",
-    description: "Cozy knit sweater perfect for layering in cooler weather.",
-    image: "https://images.unsplash.com/photo-1576871337622-98d48d1cf531?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 54.99,
-    rating: 4.7,
-    category: "tops"
-  },
-  {
-    id: 13,
-    title: "Zip-Up Sweatshirt",
-    description: "Versatile zip-up sweatshirt for easy layering and comfort.",
-    image: "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 44.99,
-    rating: 4.5,
-    category: "tops"
-  },
-  {
-    id: 14,
-    title: "Turtleneck Sweater",
-    description: "Warm turtleneck sweater that provides excellent insulation in cold weather.",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPiK2_qNbGkYDYObV2SsF7kWbHeFOEb8IgGw&s",
-    price: 59.99,
-    rating: 4.6,
-    category: "tops"
-  },
-  {
-    id: 15,
-    title: "Cardigan Sweater",
-    description: "Button-up cardigan sweater that adds a layer of warmth and style.",
-    image: "https://images.unsplash.com/photo-1516762689617-e1cffcef479d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 64.99,
-    rating: 4.8,
-    category: "tops"
-  },
-
-  {
-    id: 16,
-    title: "Slim Fit Jeans",
-    description: "Modern slim fit jeans with stretch comfort technology.",
-    image: "https://images.unsplash.com/photo-1542272604-787c3835535d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 59.99,
-    rating: 4.6,
-    category: "bottoms"
-  },
-  {
-    id: 17,
-    title: "Cargo Pants",
-    description: "Versatile cargo pants with multiple pockets for practicality.",
-    image: "https://images.unsplash.com/photo-1517438476312-10d79c077509?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 64.99,
-    rating: 4.3,
-    category: "bottoms"
-  },
-  {
-    id: 18,
-    title: "Chino Pants",
-    description: "Classic chino pants suitable for casual and semi-formal occasions.",
-    image: "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 54.99,
-    rating: 4.5,
-    category: "bottoms"
-  },
-  {
-    id: 19,
-    title: "Distressed Jeans",
-    description: "Stylish distressed jeans with a modern worn-in look.",
-    image: "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 69.99,
-    rating: 4.4,
-    category: "bottoms"
-  },
-  {
-    id: 20,
-    title: "High-Waisted Jeans",
-    description: "Flattering high-waisted jeans that elongate the legs.",
-    image: "https://images.unsplash.com/photo-1475178626620-a4d074967452?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 64.99,
-    rating: 4.7,
-    category: "bottoms"
-  },
-  {
-    id: 21,
-    title: "Athletic Shorts",
-    description: "Breathable shorts designed for maximum comfort during workouts.",
-    image: "https://images.unsplash.com/photo-1562886877-aaaa5c0b3225?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 29.99,
-    rating: 4.4,
-    category: "bottoms"
-  },
-  {
-    id: 22,
-    title: "Denim Shorts",
-    description: "Classic denim shorts perfect for casual summer days.",
-    image: "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 39.99,
-    rating: 4.3,
-    category: "bottoms"
-  },
-  {
-    id: 23,
-    title: "Chino Shorts",
-    description: "Versatile chino shorts that can be dressed up or down.",
-    image: "https://images.unsplash.com/photo-1565084888279-aca607ecce0c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 34.99,
-    rating: 4.5,
-    category: "bottoms"
-  },
-  {
-    id: 24,
-    title: "Board Shorts",
-    description: "Quick-drying board shorts ideal for beach and water activities.",
-    image: "https://images.unsplash.com/photo-1565084888279-aca607ecce0c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 44.99,
-    rating: 4.6,
-    category: "bottoms"
-  },
-  {
-    id: 25,
-    title: "Cargo Shorts",
-    description: "Practical cargo shorts with multiple pockets for storage.",
-    image: "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 42.99,
-    rating: 4.2,
-    category: "bottoms"
-  },
-  {
-    id: 26,
-    title: "Summer Dress",
-    description: "Lightweight floral dress ideal for warm summer days.",
-    image: "https://images.unsplash.com/photo-1612336307429-8a898d10e223?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 39.99,
-    rating: 4.9,
-    category: "dresses"
-  },
-  {
-    id: 27,
-    title: "Maxi Dress",
-    description: "Flowing maxi dress with an elegant silhouette for special occasions.",
-    image: "https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 79.99,
-    rating: 4.8,
-    category: "dresses"
-  },
-  {
-    id: 28,
-    title: "Wrap Dress",
-    description: "Flattering wrap dress that accentuates the waistline.",
-    image: "https://images.unsplash.com/photo-1485968579580-b6d095142e6e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 69.99,
-    rating: 4.7,
-    category: "dresses"
-  },
-  {
-    id: 29,
-    title: "Cocktail Dress",
-    description: "Elegant cocktail dress perfect for evening events and parties.",
-    image: "https://images.unsplash.com/photo-1566174053879-31528523f8ae?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 89.99,
-    rating: 4.9,
-    category: "dresses"
-  },
-  {
-    id: 30,
-    title: "Shirt Dress",
-    description: "Versatile shirt dress that transitions easily from day to night.",
-    image: "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 59.99,
-    rating: 4.6,
-    category: "dresses"
-  },
-  {
-    id: 31,
-    title: "Pleated Midi Skirt",
-    description: "Elegant pleated midi skirt that moves beautifully with every step.",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd01E-yKk6Gsd-VjTrRZ9GoP91XOZnO2ViNQ&s",
-    price: 49.99,
-    rating: 4.7,
-    category: "bottoms"
-  },
-  {
-    id: 32,
-    title: "Denim Mini Skirt",
-    description: "Classic denim mini skirt that pairs well with any casual top.",
-    image: "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 39.99,
-    rating: 4.4,
-    category: "bottoms"
-  },
-  {
-    id: 33,
-    title: "A-Line Skirt",
-    description: "Flattering A-line skirt suitable for office and formal settings.",
-    image: "https://www.theschoolwearspecialists.co.uk/media/catalog/product/cache/415b408907ca000e88f6bfdffacb1d1c/p/r/prodzoomimg887.jpg",
-    price: 54.99,
-    rating: 4.6,
-    category: "bottoms"
-  },
-  {
-    id: 34,
-    title: "Pencil Skirt",
-    description: "Sleek pencil skirt that creates a polished professional look.",
-    image: "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 59.99,
-    rating: 4.8,
-    category: "bottoms"
-  },
-  {
-    id: 35,
-    title: "Wrap Skirt",
-    description: "Adjustable wrap skirt with a tie closure for a customized fit.",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUFp90oZIvE-Yi4sfNIuxhSExpNn0Xu3vsLw&s",
-    price: 44.99,
-    rating: 4.5,
-    category: "bottoms"
-  },
-  {
-    id: 36,
-    title: "Denim Jacket",
-    description: "Classic denim jacket that never goes out of style.",
-    image: "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 69.99,
-    rating: 4.8,
-    category: "outerwear"
-  },
-  {
-    id: 37,
-    title: "Leather Jacket",
-    description: "Timeless leather jacket that adds edge to any outfit.",
-    image: "https://images.unsplash.com/photo-1521223890158-f9f7c3d5d504?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 199.99,
-    rating: 4.9,
-    category: "outerwear"
-  },
-  {
-    id: 38,
-    title: "Winter Jacket",
-    description: "Insulated jacket with water-resistant exterior for cold weather.",
-    image: "https://images.unsplash.com/photo-1539533113208-f6df8cc8b543?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 129.99,
-    rating: 4.8,
-    category: "outerwear"
-  },
-  {
-    id: 39,
-    title: "Trench Coat",
-    description: "Classic trench coat that provides protection from the elements with timeless style.",
-    image: "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 149.99,
-    rating: 4.7,
-    category: "outerwear"
-  },
-  {
-    id: 40,
-    title: "Formal Blazer",
-    description: "Elegant blazer for professional settings and formal occasions.",
-    image: "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 89.99,
-    rating: 4.5,
-    category: "outerwear"
-  },
-  {
-    id: 41,
-    title: "Performance Leggings",
-    description: "High-performance leggings with moisture-wicking technology for workouts.",
-    image: "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 49.99,
-    rating: 4.8,
-    category: "activewear"
-  },
-  {
-    id: 42,
-    title: "Sports Bra",
-    description: "Supportive sports bra designed for high-impact activities.",
-    image: "https://images.unsplash.com/photo-1434682881908-b43d0467b798?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 34.99,
-    rating: 4.7,
-    category: "activewear"
-  },
-  {
-    id: 43,
-    title: "Running Shorts",
-    description: "Lightweight running shorts with built-in liner for comfort.",
-    image: "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 29.99,
-    rating: 4.6,
-    category: "activewear"
-  },
-  {
-    id: 44,
-    title: "Workout Tank Top",
-    description: "Breathable tank top perfect for intense training sessions.",
-    image: "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 24.99,
-    rating: 4.5,
-    category: "activewear"
-  },
-  {
-    id: 45,
-    title: "Track Jacket",
-    description: "Lightweight track jacket ideal for warm-ups and cool-downs.",
-    image: "https://images.unsplash.com/photo-1483721310020-03333e577078?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 54.99,
-    rating: 4.4,
-    category: "activewear"
-  },
-  {
-    id: 46,
-    title: "One-Piece Swimsuit",
-    description: "Stylish one-piece swimsuit with flattering silhouette.",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQecqtJ8PyKV62tpXQheVkYtvdpEF9IxKQKqg&s",
-    price: 59.99,
-    rating: 4.7,
-    category: "swimwear"
-  },
-  {
-    id: 47,
-    title: "Bikini Set",
-    description: "Trendy two-piece bikini set for beach and pool days.",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Q0mwc7EGOrTRodrB3iq-94q2USVirt5VYQ&s",
-    price: 49.99,
-    rating: 4.6,
-    category: "swimwear"
-  },
-  {
-    id: 48,
-    title: "Swim Trunks",
-    description: "Quick-drying swim trunks with comfortable mesh lining.",
-    image: "https://images.unsplash.com/photo-1565084888279-aca607ecce0c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 39.99,
-    rating: 4.5,
-    category: "swimwear"
-  },
-  {
-    id: 49,
-    title: "Rash Guard",
-    description: "Protective rash guard with UPF 50+ for sun protection during water activities.",
-    image: "https://images.unsplash.com/photo-1570976447640-ac859083963f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 44.99,
-    rating: 4.8,
-    category: "swimwear"
-  },
-  {
-    id: 50,
-    title: "Cover-Up",
-    description: "Lightweight beach cover-up that transitions from beach to boardwalk.",
-    image: "https://images.unsplash.com/photo-1570976447640-ac859083963f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 34.99,
-    rating: 4.4,
-    category: "swimwear"
-  },
-  {
-    id: 51,
-    title: "Boxer Briefs (3-Pack)",
-    description: "Comfortable boxer briefs made from soft, breathable cotton.",
-    image: "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 29.99,
-    rating: 4.8,
-    category: "underwear"
-  },
-  {
-    id: 52,
-    title: "Cotton Briefs (5-Pack)",
-    description: "Classic cotton briefs for everyday comfort.",
-    image: "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 24.99,
-    rating: 4.7,
-    category: "underwear"
-  },
-  {
-    id: 53,
-    title: "Athletic Socks (6-Pack)",
-    description: "Durable athletic socks with cushioned soles for active lifestyles.",
-    image: "https://images.unsplash.com/photo-1586350977771-b3b0abd50c82?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 19.99,
-    rating: 4.6,
-    category: "underwear"
-  },
-  {
-    id: 54,
-    title: "Dress Socks (4-Pack)",
-    description: "Stylish dress socks perfect for formal and business attire.",
-    image: "https://images.unsplash.com/photo-1586350977771-b3b0abd50c82?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 24.99,
-    rating: 4.5,
-    category: "underwear"
-  },
-  {
-    id: 55,
-    title: "Seamless Underwear (3-Pack)",
-    description: "Comfortable seamless underwear that prevents visible panty lines.",
-    image: "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 34.99,
-    rating: 4.9,
-    category: "underwear"
-  },
-  {
-    id: 56,
-    title: "Pajama Set",
-    description: "Soft and comfortable pajama set for a good night's sleep.",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFI-PoYPosuLiUIDtNRN5IH2QerUGjPcVxzQ&s",
-    price: 49.99,
-    rating: 4.8,
-    category: "sleepwear"
-  },
-  {
-    id: 57,
-    title: "Nightgown",
-    description: "Lightweight nightgown made from breathable fabric.",
-    image: "https://media.centrepointstores.com/i/centrepoint/7532329-SCHERO2PKD02H3T426J-SPW24260724_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-d-prt-pdp-2x$",
-    price: 39.99,
-    rating: 4.7,
-    category: "sleepwear"
-  },
-  {
-    id: 58,
-    title: "Lounge Pants",
-    description: "Relaxed lounge pants perfect for lazy days at home.",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMisGgtG7QhAbi2GkdOFtqjmiUU467YVGL_w&s",
-    price: 34.99,
-    rating: 4.6,
-    category: "sleepwear"
-  },
-  {
-    id: 59,
-    title: "Sleep Shorts",
-    description: "Comfortable sleep shorts for warm nights.",
-    image: "https://i5.walmartimages.com/asr/d72cc07b-a1bc-4cc3-ac1a-9826f756aafc.0851dbe5bf252a77085bf0ff6539f312.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
-    price: 29.99,
-    rating: 4.5,
-    category: "sleepwear"
-  },
-  {
-    id: 60,
-    title: "Robe",
-    description: "Plush robe that provides warmth and comfort after bathing.",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZltguqeGxENS0UeJ8Nj-kajjwkFGy0xOhSg&s",
-    price: 59.99,
-    rating: 4.9,
-    category: "sleepwear"
-  },
-  {
-    id: 61,
-    title: "Baseball Cap",
-    description: "Classic baseball cap for sun protection and casual style.",
-    image: "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 24.99,
-    rating: 4.5,
-    category: "accessories"
-  },
-  {
-    id: 62,
-    title: "Beanie",
-    description: "Warm knit beanie for cold weather protection.",
-    image: "https://images.unsplash.com/photo-1576871337622-98d48d1cf531?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 19.99,
-    rating: 4.6,
-    category: "accessories"
-  },
-  {
-    id: 63,
-    title: "Sun Hat",
-    description: "Wide-brimmed sun hat that provides excellent UV protection.",
-    image: "https://images.unsplash.com/photo-1565839412225-98641b2d7b5b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 29.99,
-    rating: 4.7,
-    category: "accessories"
-  },
-  {
-    id: 64,
-    title: "Fedora",
-    description: "Stylish fedora hat that adds sophistication to any outfit.",
-    image: "https://images.unsplash.com/photo-1514327605112-b887c0e61c0a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 39.99,
-    rating: 4.4,
-    category: "accessories"
-  },
-  {
-    id: 65,
-    title: "Bucket Hat",
-    description: "Trendy bucket hat perfect for casual outings.",
-    image: "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 24.99,
-    rating: 4.3,
-    category: "accessories"
-  },
-  {
-    id: 66,
-    title: "Winter Scarf",
-    description: "Warm knit scarf that provides protection from cold winds.",
-    image: "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 29.99,
-    rating: 4.7,
-    category: "accessories"
-  },
-  {
-    id: 67,
-    title: "Leather Gloves",
-    description: "Elegant leather gloves lined with soft insulation for winter wear.",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_9NqDwfNA-7jgCp1BX0KdKTRRcSX0R_3D1w&s",
-    price: 49.99,
-    rating: 4.8,
-    category: "accessories"
-  },
-  {
-    id: 68,
-    title: "Lightweight Scarf",
-    description: "Versatile lightweight scarf that adds a pop of color to any outfit.",
-    image: "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 24.99,
-    rating: 4.5,
-    category: "accessories"
-  },
-  {
-    id: 69,
-    title: "Touchscreen Gloves",
-    description: "Practical gloves with touchscreen compatibility for using devices in cold weather.",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMmKkrKTpY2bC4YX13LYlEpgaHQGwi0f22ow&s",
-    price: 34.99,
-    rating: 4.6,
-    category: "accessories"
-  },
-  {
-    id: 70,
-    title: "Infinity Scarf",
-    description: "Cozy infinity scarf that stays in place while providing warmth.",
-    image: "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 27.99,
-    rating: 4.4,
-    category: "accessories"
-  },
-  {
-    id: 71,
-    title: "Leather Belt",
-    description: "Classic leather belt with a timeless buckle design.",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBFdgkE7dbR5kaqUPUN-Y0l5N3iBwMku_YpQ&s",
-    price: 39.99,
-    rating: 4.7,
-    category: "accessories"
-  },
-  {
-    id: 72,
-    title: "Silk Tie",
-    description: "Elegant silk tie perfect for formal occasions and business attire.",
-    image: "https://images.unsplash.com/photo-1589756823695-278bc923f962?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 34.99,
-    rating: 4.8,
-    category: "accessories"
-  },
-  {
-    id: 73,
-    title: "Woven Belt",
-    description: "Casual woven belt that adds texture to any outfit.",
-    image: "https://images.unsplash.com/photo-1553143820-6bb68bc34679?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 29.99,
-    rating: 4.5,
-    category: "accessories"
-  },
-  {
-    id: 74,
-    title: "Bow Tie",
-    description: "Sophisticated bow tie for formal events and black-tie occasions.",
-    image: "https://images.unsplash.com/photo-1589756823695-278bc923f962?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 29.99,
-    rating: 4.6,
-    category: "accessories"
-  },
-  {
-    id: 75,
-    title: "Reversible Belt",
-    description: "Versatile reversible belt offering two colors in one.",
-    image: "https://images.unsplash.com/photo-1553143820-6bb68bc34679?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 44.99,
-    rating: 4.4,
-    category: "accessories"
-  },
-  {
-    id: 76,
-    title: "Canvas Sneakers",
-    description: "Classic canvas sneakers that go with everything in your wardrobe.",
-    image: "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 49.99,
-    rating: 4.7,
-    category: "footwear"
-  },
-  {
-    id: 77,
-    title: "Slip-On Loafers",
-    description: "Comfortable slip-on loafers perfect for casual and semi-formal occasions.",
-    image: "https://images.unsplash.com/photo-1533867617858-e7b97e060509?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 59.99,
-    rating: 4.6,
-    category: "footwear"
-  },
-  {
-    id: 78,
-    title: "Sandals",
-    description: "Durable sandals designed for comfort during warm weather.",
-    image: "https://images.unsplash.com/photo-1603487742131-4160ec999306?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 39.99,
-    rating: 4.5,
-    category: "footwear"
-  },
-  {
-    id: 79,
-    title: "Boat Shoes",
-    description: "Classic boat shoes with non-marking soles and water-resistant properties.",
-    image: "https://images.unsplash.com/photo-1533867617858-e7b97e060509?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 64.99,
-    rating: 4.8,
-    category: "footwear"
-  },
-  {
-    id: 80,
-    title: "Espadrilles",
-    description: "Lightweight espadrilles with comfortable jute soles for summer wear.",
-    image: "https://images.unsplash.com/photo-1603487742131-4160ec999306?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 44.99,
-    rating: 4.4,
-    category: "footwear"
-  },
-  {
-    id: 81,
-    title: "Leather Boots",
-    description: "Durable leather boots with comfortable insoles for all-day wear.",
-    image: "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 119.99,
-    rating: 4.6,
-    category: "footwear"
-  },
-  {
-    id: 82,
-    title: "Oxford Shoes",
-    description: "Classic oxford shoes perfect for formal occasions and business attire.",
-    image: "https://images.unsplash.com/photo-1533867617858-e7b97e060509?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 89.99,
-    rating: 4.8,
-    category: "footwear"
-  },
-  {
-    id: 83,
-    title: "Running Shoes",
-    description: "Lightweight running shoes with responsive cushioning for optimal performance.",
-    image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 79.99,
-    rating: 4.7,
-    category: "footwear"
-  },
-  {
-    id: 84,
-    title: "Dress Heels",
-    description: "Elegant dress heels that provide comfort and style for special occasions.",
-    image: "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 69.99,
-    rating: 4.5,
-    category: "footwear"
-  },
-  {
-    id: 85,
-    title: "Training Shoes",
-    description: "Versatile training shoes designed for various workout activities.",
-    image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 84.99,
-    rating: 4.9,
-    category: "footwear"
-  },
-  {
-    id: 86,
-    title: "Backpack",
-    description: "Durable backpack with multiple compartments for everyday use.",
-    image: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 59.99,
-    rating: 4.7,
-    category: "accessories"
-  },
-  {
-    id: 87,
-    title: "Tote Bag",
-    description: "Spacious tote bag perfect for shopping and daily essentials.",
-    image: "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 49.99,
-    rating: 4.6,
-    category: "accessories"
-  },
-  {
-    id: 88,
-    title: "Leather Wallet",
-    description: "Classic leather wallet with multiple card slots and bill compartment.",
-    image: "https://images.unsplash.com/photo-1627123424574-724758594e93?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 39.99,
-    rating: 4.8,
-    category: "accessories"
-  },
-  {
-    id: 89,
-    title: "Crossbody Bag",
-    description: "Convenient crossbody bag for hands-free carrying of essentials.",
-    image: "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 54.99,
-    rating: 4.5,
-    category: "accessories"
-  },
-  {
-    id: 90,
-    title: "Card Holder",
-    description: "Slim card holder for minimalist storage of essential cards.",
-    image: "https://images.unsplash.com/photo-1627123424574-724758594e93?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 24.99,
-    rating: 4.4,
-    category: "accessories"
-  },
-
-  {
-    id: 91,
-    title: "Stainless Steel Watch",
-    description: "Classic stainless steel watch with precision movement.",
-    image: "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 129.99,
-    rating: 4.8,
-    category: "accessories"
-  },
-  {
-    id: 92,
-    title: "Silver Necklace",
-    description: "Elegant silver necklace that adds sophistication to any outfit.",
-    image: "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 49.99,
-    rating: 4.7,
-    category: "accessories"
-  },
-  {
-    id: 93,
-    title: "Leather Bracelet",
-    description: "Stylish leather bracelet with stainless steel accents.",
-    image: "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 29.99,
-    rating: 4.5,
-    category: "accessories"
-  },
-  {
-    id: 94,
-    title: "Stud Earrings",
-    description: "Classic stud earrings that complement any style.",
-    image: "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 34.99,
-    rating: 4.6,
-    category: "accessories"
-  },
-  {
-    id: 95,
-    title: "Minimalist Ring",
-    description: "Simple yet elegant ring for everyday wear.",
-    image: "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 24.99,
-    rating: 4.4,
-    category: "accessories"
-  },
-  {
-    id: 96,
-    title: "Aviator Sunglasses",
-    description: "Classic aviator sunglasses with UV protection.",
-    image: "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 79.99,
-    rating: 4.7,
-    category: "accessories"
-  },
-  {
-    id: 97,
-    title: "Round Sunglasses",
-    description: "Trendy round sunglasses with polarized lenses.",
-    image: "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 69.99,
-    rating: 4.6,
-    category: "accessories"
-  },
-  {
-    id: 98,
-    title: "Reading Glasses",
-    description: "Stylish reading glasses with anti-blue light technology.",
-    image: "https://images.unsplash.com/photo-1574258495973-f010dfbb5371?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 49.99,
-    rating: 4.8,
-    category: "accessories"
-  },
-  {
-    id: 99,
-    title: "Wayfarer Sunglasses",
-    description: "Iconic wayfarer sunglasses that never go out of style.",
-    image: "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 74.99,
-    rating: 4.5,
-    category: "accessories"
-  },
-  {
-    id: 100,
-    title: "Sport Sunglasses",
-    description: "Durable sport sunglasses designed for active lifestyles.",
-    image: "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    price: 89.99,
-    rating: 4.9,
-    category: "accessories"
+    "id": 1,
+    "title": "Classic White T-Shirt",
+    "description": "Essential cotton t-shirt with a comfortable fit and timeless design.",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 24.99,
+    "rating": 4.8,
+    "category": "tops"
+  },
+  {
+    "id": 2,
+    "title": "Black Graphic Tee",
+    "description": "Soft cotton t-shirt featuring a unique graphic print on the front.",
+    "image": "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 29.99,
+    "rating": 4.6,
+    "category": "tops"
+  },
+  {
+    "id": 3,
+    "title": "Striped Pocket Tee",
+    "description": "Casual striped t-shirt with a convenient chest pocket.",
+    "image": "https://images.unsplash.com/photo-1523381294911-8d3cead13475?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 22.99,
+    "rating": 4.5,
+    "category": "tops"
+  },
+  {
+    "id": 4,
+    "title": "V-Neck Basic Tee",
+    "description": "Lightweight v-neck t-shirt perfect for layering or wearing alone.",
+    "image": "https://images.jackjones.com/12059219/1327391/001/jackjones-jjebasicv-necktees-snoos-black.png?v=61d914b6c1793535ad8fd1fba0dcaf6c://images.unsplash.com/photo-1622445275576-721325763eda?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 19.99,
+    "rating": 4.3,
+    "category": "tops"
+  },
+  {
+    "id": 5,
+    "title": "Long Sleeve Henley",
+    "description": "Comfortable long sleeve henley shirt with button detail.",
+    "image": "https://images.unsplash.com/photo-1617113930975-f9c7243ae527?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 34.99,
+    "rating": 4.7,
+    "category": "tops"
+  },
+  {
+    "id": 6,
+    "title": "Oxford Button-Down Shirt",
+    "description": "Classic oxford cloth button-down shirt for a polished casual look.",
+    "image": "https://images.unsplash.com/photo-1598961942613-ba897716405b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 49.99,
+    "rating": 4.8,
+    "category": "tops"
+  },
+  {
+    "id": 7,
+    "title": "Silk Blouse",
+    "description": "Elegant silk blouse with a flowing silhouette for a sophisticated look.",
+    "image": "https://images.unsplash.com/photo-1564257631407-4deb1f99d992?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 79.99,
+    "rating": 4.5,
+    "category": "tops"
+  },
+  {
+    "id": 8,
+    "title": "Linen Button-Up Shirt",
+    "description": "Breathable linen shirt that keeps you cool during warm weather.",
+    "image": "https://images.unsplash.com/photo-1604695573706-53170668f6a6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 59.99,
+    "rating": 4.6,
+    "category": "tops"
+  },
+  {
+    "id": 9,
+    "title": "Floral Print Blouse",
+    "description": "Vibrant floral print blouse perfect for spring and summer outfits.",
+    "image": "https://images.unsplash.com/photo-1485462537746-965f33f7f6a7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 44.99,
+    "rating": 4.4,
+    "category": "tops"
+  },
+  {
+    "id": 10,
+    "title": "Chambray Work Shirt",
+    "description": "Durable chambray work shirt with practical pockets and classic styling.",
+    "image": "https://images.unsplash.com/photo-1589310243389-96a5483213a8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 54.99,
+    "rating": 4.7,
+    "category": "tops"
+  },
+  {
+    "id": 11,
+    "title": "Casual Hoodie",
+    "description": "Soft and warm hoodie perfect for everyday wear.",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 49.99,
+    "rating": 4.7,
+    "category": "tops"
+  },
+  {
+    "id": 12,
+    "title": "Knit Sweater",
+    "description": "Cozy knit sweater perfect for layering in cooler weather.",
+    "image": "https://images.unsplash.com/photo-1576871337622-98d48d1cf531?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 54.99,
+    "rating": 4.7,
+    "category": "tops"
+  },
+  {
+    "id": 13,
+    "title": "Zip-Up Sweatshirt",
+    "description": "Versatile zip-up sweatshirt for easy layering and comfort.",
+    "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 44.99,
+    "rating": 4.5,
+    "category": "tops"
+  },
+  {
+    "id": 14,
+    "title": "Turtleneck Sweater",
+    "description": "Warm turtleneck sweater that provides excellent insulation in cold weather.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPiK2_qNbGkYDYObV2SsF7kWbHeFOEb8IgGw&s",
+    "price": 59.99,
+    "rating": 4.6,
+    "category": "tops"
+  },
+  {
+    "id": 15,
+    "title": "Cardigan Sweater",
+    "description": "Button-up cardigan sweater that adds a layer of warmth and style.",
+    "image": "https://images.unsplash.com/photo-1516762689617-e1cffcef479d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 64.99,
+    "rating": 4.8,
+    "category": "tops"
+  },
+  {
+    "id": 16,
+    "title": "Slim Fit Jeans",
+    "description": "Modern slim fit jeans with stretch comfort technology.",
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 59.99,
+    "rating": 4.6,
+    "category": "bottoms"
+  },
+  {
+    "id": 17,
+    "title": "Cargo Pants",
+    "description": "Versatile cargo pants with multiple pockets for practicality.",
+    "image": "https://images.unsplash.com/photo-1517438476312-10d79c077509?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 64.99,
+    "rating": 4.3,
+    "category": "bottoms"
+  },
+  {
+    "id": 18,
+    "title": "Chino Pants",
+    "description": "Classic chino pants suitable for casual and semi-formal occasions.",
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 54.99,
+    "rating": 4.5,
+    "category": "bottoms"
+  },
+  {
+    "id": 19,
+    "title": "Distressed Jeans",
+    "description": "Stylish distressed jeans with a modern worn-in look.",
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 69.99,
+    "rating": 4.4,
+    "category": "bottoms"
+  },
+  {
+    "id": 20,
+    "title": "High-Waisted Jeans",
+    "description": "Flattering high-waisted jeans that elongate the legs.",
+    "image": "https://images.unsplash.com/photo-1475178626620-a4d074967452?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 64.99,
+    "rating": 4.7,
+    "category": "bottoms"
+  },
+  {
+    "id": 21,
+    "title": "Athletic Shorts",
+    "description": "Breathable shorts designed for maximum comfort during workouts.",
+    "image": "https://images.unsplash.com/photo-1562886877-aaaa5c0b3225?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 29.99,
+    "rating": 4.4,
+    "category": "bottoms"
+  },
+  {
+    "id": 22,
+    "title": "Denim Shorts",
+    "description": "Classic denim shorts perfect for casual summer days.",
+    "image": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 39.99,
+    "rating": 4.3,
+    "category": "bottoms"
+  },
+  {
+    "id": 23,
+    "title": "Chino Shorts",
+    "description": "Versatile chino shorts that can be dressed up or down.",
+    "image": "https://images.unsplash.com/photo-1565084888279-aca607ecce0c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 34.99,
+    "rating": 4.5,
+    "category": "bottoms"
+  },
+  {
+    "id": 24,
+    "title": "Board Shorts",
+    "description": "Quick-drying board shorts ideal for beach and water activities.",
+    "image": "https://images.unsplash.com/photo-1565084888279-aca607ecce0c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 44.99,
+    "rating": 4.6,
+    "category": "bottoms"
+  },
+  {
+    "id": 25,
+    "title": "Cargo Shorts",
+    "description": "Practical cargo shorts with multiple pockets for storage.",
+    "image": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 42.99,
+    "rating": 4.2,
+    "category": "bottoms"
+  },
+  {
+    "id": 26,
+    "title": "Summer Dress",
+    "description": "Lightweight floral dress ideal for warm summer days.",
+    "image": "https://images.unsplash.com/photo-1612336307429-8a898d10e223?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 39.99,
+    "rating": 4.9,
+    "category": "dresses"
+  },
+  {
+    "id": 27,
+    "title": "Maxi Dress",
+    "description": "Flowing maxi dress with an elegant silhouette for special occasions.",
+    "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 79.99,
+    "rating": 4.8,
+    "category": "dresses"
+  },
+  {
+    "id": 28,
+    "title": "Wrap Dress",
+    "description": "Flattering wrap dress that accentuates the waistline.",
+    "image": "https://images.unsplash.com/photo-1485968579580-b6d095142e6e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 69.99,
+    "rating": 4.7,
+    "category": "dresses"
+  },
+  {
+    "id": 29,
+    "title": "Cocktail Dress",
+    "description": "Elegant cocktail dress perfect for evening events and parties.",
+    "image": "https://images.unsplash.com/photo-1566174053879-31528523f8ae?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 89.99,
+    "rating": 4.9,
+    "category": "dresses"
+  },
+  {
+    "id": 30,
+    "title": "Shirt Dress",
+    "description": "Versatile shirt dress that transitions easily from day to night.",
+    "image": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 59.99,
+    "rating": 4.6,
+    "category": "dresses"
+  },
+  {
+    "id": 31,
+    "title": "Pleated Midi Skirt",
+    "description": "Elegant pleated midi skirt that moves beautifully with every step.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd01E-yKk6Gsd-VjTrRZ9GoP91XOZnO2ViNQ&s",
+    "price": 49.99,
+    "rating": 4.7,
+    "category": "bottoms"
+  },
+  {
+    "id": 32,
+    "title": "Denim Mini Skirt",
+    "description": "Classic denim mini skirt that pairs well with any casual top.",
+    "image": "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 39.99,
+    "rating": 4.4,
+    "category": "bottoms"
+  },
+  {
+    "id": 33,
+    "title": "A-Line Skirt",
+    "description": "Flattering A-line skirt suitable for office and formal settings.",
+    "image": "https://www.theschoolwearspecialists.co.uk/media/catalog/product/cache/415b408907ca000e88f6bfdffacb1d1c/p/r/prodzoomimg887.jpg",
+    "price": 54.99,
+    "rating": 4.6,
+    "category": "bottoms"
+  },
+  {
+    "id": 34,
+    "title": "Pencil Skirt",
+    "description": "Sleek pencil skirt that creates a polished professional look.",
+    "image": "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 59.99,
+    "rating": 4.8,
+    "category": "bottoms"
+  },
+  {
+    "id": 35,
+    "title": "Wrap Skirt",
+    "description": "Adjustable wrap skirt with a tie closure for a customized fit.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUFp90oZIvE-Yi4sfNIuxhSExpNn0Xu3vsLw&s",
+    "price": 44.99,
+    "rating": 4.5,
+    "category": "bottoms"
+  },
+  {
+    "id": 36,
+    "title": "Denim Jacket",
+    "description": "Classic denim jacket that never goes out of style.",
+    "image": "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 69.99,
+    "rating": 4.8,
+    "category": "outerwear"
+  },
+  {
+    "id": 37,
+    "title": "Leather Jacket",
+    "description": "Timeless leather jacket that adds edge to any outfit.",
+    "image": "https://images.unsplash.com/photo-1521223890158-f9f7c3d5d504?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 199.99,
+    "rating": 4.9,
+    "category": "outerwear"
+  },
+  {
+    "id": 38,
+    "title": "Winter Jacket",
+    "description": "Insulated jacket with water-resistant exterior for cold weather.",
+    "image": "https://images.unsplash.com/photo-1539533113208-f6df8cc8b543?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 129.99,
+    "rating": 4.8,
+    "category": "outerwear"
+  },
+  {
+    "id": 39,
+    "title": "Trench Coat",
+    "description": "Classic trench coat that provides protection from the elements with timeless style.",
+    "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 149.99,
+    "rating": 4.7,
+    "category": "outerwear"
+  },
+  {
+    "id": 40,
+    "title": "Formal Blazer",
+    "description": "Elegant blazer for professional settings and formal occasions.",
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 89.99,
+    "rating": 4.5,
+    "category": "outerwear"
+  },
+  {
+    "id": 41,
+    "title": "Performance Leggings",
+    "description": "High-performance leggings with moisture-wicking technology for workouts.",
+    "image": "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 49.99,
+    "rating": 4.8,
+    "category": "activewear"
+  },
+  {
+    "id": 42,
+    "title": "Sports Bra",
+    "description": "Supportive sports bra designed for high-impact activities.",
+    "image": "https://images.unsplash.com/photo-1434682881908-b43d0467b798?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 34.99,
+    "rating": 4.7,
+    "category": "activewear"
+  },
+  {
+    "id": 43,
+    "title": "Running Shorts",
+    "description": "Lightweight running shorts with built-in liner for comfort.",
+    "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 29.99,
+    "rating": 4.6,
+    "category": "activewear"
+  },
+  {
+    "id": 44,
+    "title": "Workout Tank Top",
+    "description": "Breathable tank top perfect for intense training sessions.",
+    "image": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 24.99,
+    "rating": 4.5,
+    "category": "activewear"
+  },
+  {
+    "id": 45,
+    "title": "Track Jacket",
+    "description": "Lightweight track jacket ideal for warm-ups and cool-downs.",
+    "image": "https://images.unsplash.com/photo-1483721310020-03333e577078?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 54.99,
+    "rating": 4.4,
+    "category": "activewear"
+  },
+  {
+    "id": 46,
+    "title": "One-Piece Swimsuit",
+    "description": "Stylish one-piece swimsuit with flattering silhouette.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQecqtJ8PyKV62tpXQheVkYtvdpEF9IxKQKqg&s",
+    "price": 59.99,
+    "rating": 4.7,
+    "category": "swimwear"
+  },
+  {
+    "id": 47,
+    "title": "Bikini Set",
+    "description": "Trendy two-piece bikini set for beach and pool days.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Q0mwc7EGOrTRodrB3iq-94q2USVirt5VYQ&s",
+    "price": 49.99,
+    "rating": 4.6,
+    "category": "swimwear"
+  },
+  {
+    "id": 48,
+    "title": "Swim Trunks",
+    "description": "Quick-drying swim trunks with comfortable mesh lining.",
+    "image": "https://images.unsplash.com/photo-1565084888279-aca607ecce0c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 39.99,
+    "rating": 4.5,
+    "category": "swimwear"
+  },
+  {
+    "id": 49,
+    "title": "Rash Guard",
+    "description": "Protective rash guard with UPF 50+ for sun protection during water activities.",
+    "image": "https://images.unsplash.com/photo-1570976447640-ac859083963f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 44.99,
+    "rating": 4.8,
+    "category": "swimwear"
+  },
+  {
+    "id": 50,
+    "title": "Cover-Up",
+    "description": "Lightweight beach cover-up that transitions from beach to boardwalk.",
+    "image": "https://images.unsplash.com/photo-1570976447640-ac859083963f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 34.99,
+    "rating": 4.4,
+    "category": "swimwear"
+  },
+  {
+    "id": 51,
+    "title": "Boxer Briefs (3-Pack)",
+    "description": "Comfortable boxer briefs made from soft, breathable cotton.",
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 29.99,
+    "rating": 4.8,
+    "category": "underwear"
+  },
+  {
+    "id": 52,
+    "title": "Cotton Briefs (5-Pack)",
+    "description": "Classic cotton briefs for everyday comfort.",
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 24.99,
+    "rating": 4.7,
+    "category": "underwear"
+  },
+  {
+    "id": 53,
+    "title": "Athletic Socks (6-Pack)",
+    "description": "Durable athletic socks with cushioned soles for active lifestyles.",
+    "image": "https://images.unsplash.com/photo-1586350977771-b3b0abd50c82?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 19.99,
+    "rating": 4.6,
+    "category": "underwear"
+  },
+  {
+    "id": 54,
+    "title": "Dress Socks (4-Pack)",
+    "description": "Stylish dress socks perfect for formal and business attire.",
+    "image": "https://images.unsplash.com/photo-1586350977771-b3b0abd50c82?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 24.99,
+    "rating": 4.5,
+    "category": "underwear"
+  },
+  {
+    "id": 55,
+    "title": "Seamless Underwear (3-Pack)",
+    "description": "Comfortable seamless underwear that prevents visible panty lines.",
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 34.99,
+    "rating": 4.9,
+    "category": "underwear"
+  },
+  {
+    "id": 56,
+    "title": "Pajama Set",
+    "description": "Soft and comfortable pajama set for a good night's sleep.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFI-PoYPosuLiUIDtNRN5IH2QerUGjPcVxzQ&s",
+    "price": 49.99,
+    "rating": 4.8,
+    "category": "sleepwear"
+  },
+  {
+    "id": 57,
+    "title": "Nightgown",
+    "description": "Lightweight nightgown made from breathable fabric.",
+    "image": "https://media.centrepointstores.com/i/centrepoint/7532329-SCHERO2PKD02H3T426J-SPW24260724_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-d-prt-pdp-2x$",
+    "price": 39.99,
+    "rating": 4.7,
+    "category": "sleepwear"
+  },
+  {
+    "id": 58,
+    "title": "Lounge Pants",
+    "description": "Relaxed lounge pants perfect for lazy days at home.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMisGgtG7QhAbi2GkdOFtqjmiUU467YVGL_w&s",
+    "price": 34.99,
+    "rating": 4.6,
+    "category": "sleepwear"
+  },
+  {
+    "id": 59,
+    "title": "Sleep Shorts",
+    "description": "Comfortable sleep shorts for warm nights.",
+    "image": "https://i5.walmartimages.com/asr/d72cc07b-a1bc-4cc3-ac1a-9826f756aafc.0851dbe5bf252a77085bf0ff6539f312.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+    "price": 29.99,
+    "rating": 4.5,
+    "category": "sleepwear"
+  },
+  {
+    "id": 60,
+    "title": "Robe",
+    "description": "Plush robe that provides warmth and comfort after bathing.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZltguqeGxENS0UeJ8Nj-kajjwkFGy0xOhSg&s",
+    "price": 59.99,
+    "rating": 4.9,
+    "category": "sleepwear"
+  },
+  {
+    "id": 61,
+    "title": "Baseball Cap",
+    "description": "Classic baseball cap for sun protection and casual style.",
+    "image": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 24.99,
+    "rating": 4.5,
+    "category": "accessories"
+  },
+  {
+    "id": 62,
+    "title": "Beanie",
+    "description": "Warm knit beanie for cold weather protection.",
+    "image": "https://images.unsplash.com/photo-1576871337622-98d48d1cf531?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 19.99,
+    "rating": 4.6,
+    "category": "accessories"
+  },
+  {
+    "id": 63,
+    "title": "Sun Hat",
+    "description": "Wide-brimmed sun hat that provides excellent UV protection.",
+    "image": "https://images.unsplash.com/photo-1565839412225-98641b2d7b5b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 29.99,
+    "rating": 4.7,
+    "category": "accessories"
+  },
+  {
+    "id": 64,
+    "title": "Fedora",
+    "description": "Stylish fedora hat that adds sophistication to any outfit.",
+    "image": "https://images.unsplash.com/photo-1514327605112-b887c0e61c0a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 39.99,
+    "rating": 4.4,
+    "category": "accessories"
+  },
+  {
+    "id": 65,
+    "title": "Bucket Hat",
+    "description": "Trendy bucket hat perfect for casual outings.",
+    "image": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 24.99,
+    "rating": 4.3,
+    "category": "accessories"
+  },
+  {
+    "id": 66,
+    "title": "Winter Scarf",
+    "description": "Warm knit scarf that provides protection from cold winds.",
+    "image": "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 29.99,
+    "rating": 4.7,
+    "category": "accessories"
+  },
+  {
+    "id": 67,
+    "title": "Leather Gloves",
+    "description": "Elegant leather gloves lined with soft insulation for winter wear.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_9NqDwfNA-7jgCp1BX0KdKTRRcSX0R_3D1w&s",
+    "price": 49.99,
+    "rating": 4.8,
+    "category": "accessories"
+  },
+  {
+    "id": 68,
+    "title": "Lightweight Scarf",
+    "description": "Versatile lightweight scarf that adds a pop of color to any outfit.",
+    "image": "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 24.99,
+    "rating": 4.5,
+    "category": "accessories"
+  },
+  {
+    "id": 69,
+    "title": "Touchscreen Gloves",
+    "description": "Practical gloves with touchscreen compatibility for using devices in cold weather.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMmKkrKTpY2bC4YX13LYlEpgaHQGwi0f22ow&s",
+    "price": 34.99,
+    "rating": 4.6,
+    "category": "accessories"
+  },
+  {
+    "id": 70,
+    "title": "Infinity Scarf",
+    "description": "Cozy infinity scarf that stays in place while providing warmth.",
+    "image": "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 27.99,
+    "rating": 4.4,
+    "category": "accessories"
+  },
+  {
+    "id": 71,
+    "title": "Leather Belt",
+    "description": "Classic leather belt with a timeless buckle design.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBFdgkE7dbR5kaqUPUN-Y0l5N3iBwMku_YpQ&s",
+    "price": 39.99,
+    "rating": 4.7,
+    "category": "accessories"
+  },
+  {
+    "id": 72,
+    "title": "Silk Tie",
+    "description": "Elegant silk tie perfect for formal occasions and business attire.",
+    "image": "https://images.unsplash.com/photo-1589756823695-278bc923f962?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 34.99,
+    "rating": 4.8,
+    "category": "accessories"
+  },
+  {
+    "id": 73,
+    "title": "Woven Belt",
+    "description": "Casual woven belt that adds texture to any outfit.",
+    "image": "https://images.unsplash.com/photo-1553143820-6bb68bc34679?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 29.99,
+    "rating": 4.5,
+    "category": "accessories"
+  },
+  {
+    "id": 74,
+    "title": "Bow Tie",
+    "description": "Sophisticated bow tie for formal events and black-tie occasions.",
+    "image": "https://images.unsplash.com/photo-1589756823695-278bc923f962?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 29.99,
+    "rating": 4.6,
+    "category": "accessories"
+  },
+  {
+    "id": 75,
+    "title": "Reversible Belt",
+    "description": "Versatile reversible belt offering two colors in one.",
+    "image": "https://images.unsplash.com/photo-1553143820-6bb68bc34679?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 44.99,
+    "rating": 4.4,
+    "category": "accessories"
+  },
+  {
+    "id": 76,
+    "title": "Canvas Sneakers",
+    "description": "Classic canvas sneakers that go with everything in your wardrobe.",
+    "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 49.99,
+    "rating": 4.7,
+    "category": "footwear"
+  },
+  {
+    "id": 77,
+    "title": "Slip-On Loafers",
+    "description": "Comfortable slip-on loafers perfect for casual and semi-formal occasions.",
+    "image": "https://images.unsplash.com/photo-1533867617858-e7b97e060509?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 59.99,
+    "rating": 4.6,
+    "category": "footwear"
+  },
+  {
+    "id": 78,
+    "title": "Sandals",
+    "description": "Durable sandals designed for comfort during warm weather.",
+    "image": "https://images.unsplash.com/photo-1603487742131-4160ec999306?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 39.99,
+    "rating": 4.5,
+    "category": "footwear"
+  },
+  {
+    "id": 79,
+    "title": "Boat Shoes",
+    "description": "Classic boat shoes with non-marking soles and water-resistant properties.",
+    "image": "https://images.unsplash.com/photo-1533867617858-e7b97e060509?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 64.99,
+    "rating": 4.8,
+    "category": "footwear"
+  },
+  {
+    "id": 80,
+    "title": "Espadrilles",
+    "description": "Lightweight espadrilles with comfortable jute soles for summer wear.",
+    "image": "https://images.unsplash.com/photo-1603487742131-4160ec999306?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 44.99,
+    "rating": 4.4,
+    "category": "footwear"
+  },
+  {
+    "id": 81,
+    "title": "Leather Boots",
+    "description": "Durable leather boots with comfortable insoles for all-day wear.",
+    "image": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 119.99,
+    "rating": 4.6,
+    "category": "footwear"
+  },
+  {
+    "id": 82,
+    "title": "Oxford Shoes",
+    "description": "Classic oxford shoes perfect for formal occasions and business attire.",
+    "image": "https://images.unsplash.com/photo-1533867617858-e7b97e060509?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 89.99,
+    "rating": 4.8,
+    "category": "footwear"
+  },
+  {
+    "id": 83,
+    "title": "Running Shoes",
+    "description": "Lightweight running shoes with responsive cushioning for optimal performance.",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 79.99,
+    "rating": 4.7,
+    "category": "footwear"
+  },
+  {
+    "id": 84,
+    "title": "Dress Heels",
+    "description": "Elegant dress heels that provide comfort and style for special occasions.",
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 69.99,
+    "rating": 4.5,
+    "category": "footwear"
+  },
+  {
+    "id": 85,
+    "title": "Training Shoes",
+    "description": "Versatile training shoes designed for various workout activities.",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 84.99,
+    "rating": 4.9,
+    "category": "footwear"
+  },
+  {
+    "id": 86,
+    "title": "Backpack",
+    "description": "Durable backpack with multiple compartments for everyday use.",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 59.99,
+    "rating": 4.7,
+    "category": "accessories"
+  },
+  {
+    "id": 87,
+    "title": "Tote Bag",
+    "description": "Spacious tote bag perfect for shopping and daily essentials.",
+    "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 49.99,
+    "rating": 4.6,
+    "category": "accessories"
+  },
+  {
+    "id": 88,
+    "title": "Leather Wallet",
+    "description": "Classic leather wallet with multiple card slots and bill compartment.",
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 39.99,
+    "rating": 4.8,
+    "category": "accessories"
+  },
+  {
+    "id": 89,
+    "title": "Crossbody Bag",
+    "description": "Convenient crossbody bag for hands-free carrying of essentials.",
+    "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 54.99,
+    "rating": 4.5,
+    "category": "accessories"
+  },
+  {
+    "id": 90,
+    "title": "Card Holder",
+    "description": "Slim card holder for minimalist storage of essential cards.",
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 24.99,
+    "rating": 4.4,
+    "category": "accessories"
+  },
+  {
+    "id": 91,
+    "title": "Stainless Steel Watch",
+    "description": "Classic stainless steel watch with precision movement.",
+    "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 129.99,
+    "rating": 4.8,
+    "category": "accessories"
+  },
+  {
+    "id": 92,
+    "title": "Silver Necklace",
+    "description": "Elegant silver necklace that adds sophistication to any outfit.",
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 49.99,
+    "rating": 4.7,
+    "category": "accessories"
+  },
+  {
+    "id": 93,
+    "title": "Leather Bracelet",
+    "description": "Stylish leather bracelet with stainless steel accents.",
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 29.99,
+    "rating": 4.5,
+    "category": "accessories"
+  },
+  {
+    "id": 94,
+    "title": "Stud Earrings",
+    "description": "Classic stud earrings that complement any style.",
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 34.99,
+    "rating": 4.6,
+    "category": "accessories"
+  },
+  {
+    "id": 95,
+    "title": "Minimalist Ring",
+    "description": "Simple yet elegant ring for everyday wear.",
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 24.99,
+    "rating": 4.4,
+    "category": "accessories"
+  },
+  {
+    "id": 96,
+    "title": "Aviator Sunglasses",
+    "description": "Classic aviator sunglasses with UV protection.",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 79.99,
+    "rating": 4.7,
+    "category": "accessories"
+  },
+  {
+    "id": 97,
+    "title": "Round Sunglasses",
+    "description": "Trendy round sunglasses with polarized lenses.",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 69.99,
+    "rating": 4.6,
+    "category": "accessories"
+  },
+  {
+    "id": 98,
+    "title": "Reading Glasses",
+    "description": "Stylish reading glasses with anti-blue light technology.",
+    "image": "https://images.unsplash.com/photo-1574258495973-f010dfbb5371?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 49.99,
+    "rating": 4.8,
+    "category": "accessories"
+  },
+  {
+    "id": 99,
+    "title": "Wayfarer Sunglasses",
+    "description": "Iconic wayfarer sunglasses that never go out of style.",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 74.99,
+    "rating": 4.5,
+    "category": "accessories"
+  },
+  {
+    "id": 100,
+    "title": "Sport Sunglasses",
+    "description": "Durable sport sunglasses designed for active lifestyles.",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+    "price": 89.99,
+    "rating": 4.9,
+    "category": "accessories"
   }
 ]
