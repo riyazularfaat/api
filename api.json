@@ -1,5 +1,4 @@
 [
-  // T-Shirts
   {
     id: 1,
     title: "Classic White T-Shirt",
@@ -45,8 +44,6 @@
     rating: 4.7,
     category: "tops"
   },
-  
-  // Shirts & Blouses
   {
     id: 6,
     title: "Oxford Button-Down Shirt",
@@ -92,8 +89,6 @@
     rating: 4.7,
     category: "tops"
   },
-  
-  // Sweaters & Hoodies
   {
     id: 11,
     title: "Casual Hoodie",
@@ -139,8 +134,7 @@
     rating: 4.8,
     category: "tops"
   },
-  
-  // Jeans & Pants
+
   {
     id: 16,
     title: "Slim Fit Jeans",
@@ -186,8 +180,6 @@
     rating: 4.7,
     category: "bottoms"
   },
-  
-  // Shorts
   {
     id: 21,
     title: "Athletic Shorts",
@@ -233,8 +225,6 @@
     rating: 4.2,
     category: "bottoms"
   },
-  
-  // Dresses
   {
     id: 26,
     title: "Summer Dress",
@@ -280,8 +270,6 @@
     rating: 4.6,
     category: "dresses"
   },
-  
-  // Skirts
   {
     id: 31,
     title: "Pleated Midi Skirt",
@@ -327,8 +315,6 @@
     rating: 4.5,
     category: "bottoms"
   },
-  
-  // Jackets & Coats
   {
     id: 36,
     title: "Denim Jacket",
@@ -374,8 +360,6 @@
     rating: 4.5,
     category: "outerwear"
   },
-  
-  // Activewear
   {
     id: 41,
     title: "Performance Leggings",
@@ -421,8 +405,6 @@
     rating: 4.4,
     category: "activewear"
   },
-  
-  // Swimwear
   {
     id: 46,
     title: "One-Piece Swimsuit",
@@ -468,8 +450,6 @@
     rating: 4.4,
     category: "swimwear"
   },
-  
-  // Underwear & Socks
   {
     id: 51,
     title: "Boxer Briefs (3-Pack)",
@@ -515,8 +495,6 @@
     rating: 4.9,
     category: "underwear"
   },
-  
-  // Sleepwear
   {
     id: 56,
     title: "Pajama Set",
@@ -562,8 +540,6 @@
     rating: 4.9,
     category: "sleepwear"
   },
-  
-  // Accessories - Hats
   {
     id: 61,
     title: "Baseball Cap",
@@ -609,8 +585,6 @@
     rating: 4.3,
     category: "accessories"
   },
-  
-  // Accessories - Scarves & Gloves
   {
     id: 66,
     title: "Winter Scarf",
@@ -656,8 +630,6 @@
     rating: 4.4,
     category: "accessories"
   },
-  
-  // Accessories - Belts & Ties
   {
     id: 71,
     title: "Leather Belt",
@@ -703,8 +675,6 @@
     rating: 4.4,
     category: "accessories"
   },
-  
-  // Footwear - Casual
   {
     id: 76,
     title: "Canvas Sneakers",
@@ -750,8 +720,6 @@
     rating: 4.4,
     category: "footwear"
   },
-  
-  // Footwear - Formal & Athletic
   {
     id: 81,
     title: "Leather Boots",
@@ -797,8 +765,6 @@
     rating: 4.9,
     category: "footwear"
   },
-  
-  // Bags & Wallets
   {
     id: 86,
     title: "Backpack",
@@ -844,8 +810,7 @@
     rating: 4.4,
     category: "accessories"
   },
-  
-  // Jewelry
+
   {
     id: 91,
     title: "Stainless Steel Watch",
@@ -891,8 +856,6 @@
     rating: 4.4,
     category: "accessories"
   },
-  
-  // Sunglasses & Eyewear
   {
     id: 96,
     title: "Aviator Sunglasses",
